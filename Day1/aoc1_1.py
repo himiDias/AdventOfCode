@@ -1,4 +1,4 @@
-inp = open("input1.txt")
+inp = open("Day1/input1.txt")
 
 array1 = []
 array2 = []
