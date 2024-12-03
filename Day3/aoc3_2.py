@@ -1,7 +1,8 @@
-
+import time
 
 import re
 
+startt = time.time()
 
 def findmul(line):
     reg = re.findall("mul\([\\d]+,[\\d]+\)",line)
@@ -57,4 +58,7 @@ for i in all:
 
 print(result)
 
+print(time.time() - startt)
  
+
+# 0.002569437026977539 s
