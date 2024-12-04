@@ -7,7 +7,7 @@ My AdventOfCode 2024 perfomance and solutions
 |1|:star:|[Solution 1](/Day1/aoc1_1.py)|[Solution 2](/Day1/aoc1_2.py)|
 |2|:star:|[Solution 1](/Day2/aoc2_1.py)|[Solution 2](/Day2/aoc2_2.py)|
 |3|:star:|[Solution 1](/Day3/aoc3_1.py)|[Solution 2](/Day3/aoc3_2.py)|
-|4|-|-|-|
+|4|:star:|[Solution 1](/Day4/aoc4_1.py)|[Solution 2](/Day4/aoc4_2.py)|
 |5|-|-|-|
 |6|-|-|-|
 |7|-|-|-|
