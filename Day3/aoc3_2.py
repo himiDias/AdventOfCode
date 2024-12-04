@@ -56,9 +56,10 @@ for i in all:
         result = result + int(reg1[0]) * int(reg1[1])
 
 
-print(result)
+ 
 
 print(time.time() - startt)
+print(result)
  
 
 # 0.002569437026977539 s
