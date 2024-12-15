@@ -47,7 +47,7 @@ def fix():
                 next = u[j]
                 if [next,curr] in rules:
                     x = i
-                    while (u[x]!= next):
+                    while (x <= j and x < len(u)-2):
                         u[x] =  u[x+1]
                         x += 1
                     u[x] = curr
