@@ -11,7 +11,7 @@ My AdventOfCode 2024 perfomance and solutions
 |  5  |    -    |               -               |               -               |
 |  6  |    -    |               -               |               -               |
 |  7  | :star:  | [Solution 1](/Day7/aoc7_1.py) | [Solution 2](/Day7/aoc7_2.py) |
-|  8  |    -    |               -               |               -               |
+|  8  | :star:  | [Solution 1](/Day8/aoc7_1.py) | [Solution 2](/Day8/aoc7_2.py) |
 |  9  |    -    |               -               |               -               |
 | 10  |    -    |               -               |               -               |
 | 11  |    -    |               -               |               -               |
